@@ -1,4 +1,1 @@
-# Welcome to Leviathan Corporation
-
-
-# Forever Forward.
+# Welcome to Leviathan Corporation!
